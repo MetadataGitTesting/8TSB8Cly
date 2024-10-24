@@ -1,0 +1,57 @@
+name: nakia.weimann
+description: solution-oriented
+version: 3.2.0.862
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: nakiaweimann
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:04:06'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:04:06'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:04:06.299384Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '582419607'
+  createdAt: '2024-10-24T22:04:06.299384Z'
+  type: plibMaven
+projectDependencies:
+  '290':
+    projectUID: 290
+    projectName: tommie.langosh
+    repositoryPath: gitUri=http://gitserver:3000/dev_qhLZBkqj_team_409/dev_qhLZBkqj_project_290.git&subPath=
+    version: tommie.langosh/8.4.412
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:04:04'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
